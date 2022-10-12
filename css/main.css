@@ -53,10 +53,17 @@ header nav ul li a:focus {
 footer {
   text-align: center;
 }
-.wrapper ul li {
-  list-style: none;
-  display: flex;
-  justify-content: space-between;
+
+.image_line {
+  grid-template-areas:
+    "one one two two"
+    "one one two two"
+    "three three four four"
+    "three three four four";
+  gap: 10px;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(4, 100px);
+  inline-size: 500px;
 }
 .wrapper img {
   max-width: 400px;
