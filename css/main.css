@@ -66,8 +66,11 @@ footer {
   grid-template-rows: repeat(4, 100px);
   inline-size: 500px;
 }
+
+.one {
+  max-width: 100%;
+}
 .wrapper img {
-  max-width: 400px;
   width: 50%;
   position: inherit;
   width: 253px;
