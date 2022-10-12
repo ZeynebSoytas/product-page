@@ -54,6 +54,10 @@ Money Tree, Good Luck Tree, Malabar Chestnut, Saba Nut, Guiana Chestnut, Wild Ka
 
 People also browsed
 
+ <h3 class="product__title">Sanseviera</h3>
+                        <span class="product__price">$149</span> 
+
+
 Sanseviera
 $149
 (img provided)
