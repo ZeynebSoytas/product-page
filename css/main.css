@@ -54,7 +54,15 @@ footer {
   text-align: center;
 }
 
-
+.wrapper img {
+  max-width: 400px;
+  width: 50%;
+  position: inherit;
+  width: 253px;
+  height: 268px;
+  left: 16px;
+  top: 118px;
+}
 /* Default styling for all screens ends here */
 
 /* Add media query for tablet */
