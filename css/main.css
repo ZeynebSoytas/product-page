@@ -53,7 +53,11 @@ header nav ul li a:focus {
 footer {
   text-align: center;
 }
-
+.wrapper ul li {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
 .wrapper img {
   max-width: 400px;
   width: 50%;
