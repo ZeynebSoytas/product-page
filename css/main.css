@@ -55,6 +55,7 @@ footer {
 }
 
 .image_line {
+  display: grid;
   grid-template-areas:
     "one one two two"
     "one one two two"
