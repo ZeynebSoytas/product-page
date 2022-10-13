@@ -54,17 +54,10 @@ footer {
   text-align: center;
 }
 
-.image_line {
+.grid {
   display: grid;
-  grid-template-areas:
-    "one one two two"
-    "one one two two"
-    "three three four four"
-    "three three four four";
-  gap: 10px;
-  grid-template-columns: repeat(4, 1fr);
-  grid-template-rows: repeat(4, 100px);
-  inline-size: 500px;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: repeat(3, 1fr);
 }
 
 .one {
@@ -77,6 +70,13 @@ footer {
   height: 268px;
   left: 16px;
   top: 118px;
+}
+
+.blockquote {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
 }
 /* Default styling for all screens ends here */
 

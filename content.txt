@@ -3,6 +3,7 @@ $169
 
 <p>Popular for its use in Feng Shui, the Money Tree is a pet-friendly and air-purifying plant with large star-shaped leaves and a braided trunk to give your home a tropical feel.</p>
 
+dl dd dt 
 
 
 Details & Care
@@ -22,7 +23,7 @@ Yes - Non-toxic and pet-friendly
 Air Cleaner:
 Yes - Releases oxygen and absorbs pollutants
 
-
+unordered list
 
 What’s Included
 - Healthy plant pre-potted with premium soil
@@ -39,7 +40,7 @@ The Money Tree was named after the Feng Shui belief that it will foster positive
 
 A Clean Air Study by NASA named the Money Tree as one of the most effective houseplants for clearing toxins from the air of your home.
 
-
+dl dd dt
 
 
 Botanical name:
