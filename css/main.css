@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
 html {
   box-sizing: border-box;
@@ -22,6 +22,7 @@ img {
 }
 
 .wrapper {
+  font-family: 'Lato', sans serif;
   max-width: 1400px;
   margin: 0 auto;
 }
@@ -63,6 +64,7 @@ max-width: 100%;
 .one {
   max-width: 100%;
 }
+
 .wrapper img {
   width: 50%;
   position: inherit;
