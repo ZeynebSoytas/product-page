@@ -1,62 +1,53 @@
 <h1>Money Tree</h1>
-$169
+<data value="$169"></data>
 
 <p>Popular for its use in Feng Shui, the Money Tree is a pet-friendly and air-purifying plant with large star-shaped leaves and a braided trunk to give your home a tropical feel.</p>
 
-dl dd dt 
 
+<h2>Details & Care</h2>
 
-Details & Care
+<dl>
+  <dt>Size:</dt>
+  <dd>XL - 32”-40” tall (including recycled plastic Ecopot)</dd>
 
-Size:
-XL - 32”-40” tall (including recycled plastic Ecopot)
+  <dt>Difficulty:</dt>
+  <dd>No-fuss - Carefree</dd>
 
-Difficulty:
-No-fuss - Carefree
+  <dt>Light:</dt>
+  <dd>Low to Bright Indirect</dd>
 
-Light:
-Low to Bright Indirect
+  <dt>Pet friendly:</dt>
+  <dd>Yes - Non-toxic and pet-friendly</dd>
 
-Pet friendly:
-Yes - Non-toxic and pet-friendly
+  <dt>Air Cleaner:</dt>
+  <dd>Yes - Releases oxygen and absorbs pollutants</dd>
+</dl>
 
-Air Cleaner:
-Yes - Releases oxygen and absorbs pollutants
+<h2>What’s Included</h2>
 
-unordered list
+<ul>
+<li>- Healthy plant pre-potted with premium soil</li>
+<li>- Ecopots pot and saucer</li>
+<li>- All the tips and tricks for expert-level care</li>
+</ul>
 
-What’s Included
-- Healthy plant pre-potted with premium soil
-- Ecopots pot and saucer
-- All the tips and tricks for expert-level care
+<h2>Description</h2>
 
-
-
-Description
-
-Composed of several Pachinra aquatica plants braided together, the Money Tree resembles both a tree and a palm. Native from Mexico to northern South America where it grows up to 60 feet tall outdoors, this is a commonly found houseplant in East Asia where the braided trunk cultivation was popularized.
-
-The Money Tree was named after the Feng Shui belief that it will foster positive energy and bring good luck to its owner. This plant may also reduce stress, anxiety, and may also help to relieve sleeping disorders.
-
-A Clean Air Study by NASA named the Money Tree as one of the most effective houseplants for clearing toxins from the air of your home.
+<p>Composed of several Pachinra aquatica plants braided together, the Money Tree resembles both a tree and a palm. Native from Mexico to northern South America where it grows up to 60 feet tall outdoors, this is a commonly found houseplant in East Asia where the braided trunk cultivation was popularized.</p>
+<p>The Money Tree was named after the Feng Shui belief that it will foster positive energy and bring good luck to its owner. This plant may also reduce stress, anxiety, and may also help to relieve sleeping disorders.</p>
+<p>A Clean Air Study by NASA named the Money Tree as one of the most effective houseplants for clearing toxins from the air of your home.<p>
 
 dl dd dt
 
+<dl>
+<dd>Botanical name:</dd>
+<dt>Pachira aquatica</dt>
 
-Botanical name:
-Pachira aquatica
-
-
-
-Common name(s):
-Money Tree, Good Luck Tree, Malabar Chestnut, Saba Nut, Guiana Chestnut, Wild Kapock Tree, Mexican Money Tree
-
-
+<dd>Common name(s):</dd>
+<dt>Money Tree, Good Luck Tree, Malabar Chestnut, Saba Nut, Guiana Chestnut, Wild Kapock Tree, Mexican Money Tree</dt>
+</dl>
 
 People also browsed
-
- <h3 class="product__title">Sanseviera</h3>
-                        <span class="product__price">$149</span> 
 
 
 Sanseviera
@@ -87,3 +78,13 @@ What people are saying
 
 "I knew nothing about plants, and was able to feel confident about caring for them. I haven’t killed one yet, thanks to help from your care guides and Plant Mom!"
 - Kayla B.
+
+
+
+
+
+.grid 
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: repeat(3, 1fr);
+}
