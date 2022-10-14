@@ -63,14 +63,7 @@ max-width: 100%;
 .one {
   max-width: 100%;
 }
-.wrapper img {
-  width: 50%;
-  position: inherit;
-  width: 253px;
-  height: 268px;
-  left: 16px;
-  top: 118px;
-}
+
 ul li {
   list-style: none;
 }
