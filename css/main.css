@@ -57,7 +57,7 @@ footer {
 
 .grid {
   display: grid;
-  grid-template-columns: 75% 25%;
+  grid-template-columns: 75% 24%;
   gap: 1em;
   grid-template-areas:
     "img1 img2"
