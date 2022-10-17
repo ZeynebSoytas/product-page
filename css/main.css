@@ -58,6 +58,7 @@ footer {
   display: grid;
   grid-template-columns: 75% 24%;
   gap: 1em;
+  padding-top: 30px;
   grid-template-areas:
     "img1 img2"
     "img1 img3"
