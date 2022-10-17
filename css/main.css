@@ -21,6 +21,9 @@ img {
   width: 100%;
 }
 
+h1 img {
+  width: 200px;
+}
 .wrapper {
   max-width: 1400px;
   margin: 0 auto;
@@ -98,12 +101,14 @@ ul li {
   max-width: 100%;
 }
 
-.blockquote {
+.quotes {
+  display: flex;
   margin-top: 100px;
   margin-bottom: 100px;
   margin-right: 150px;
   margin-left: 80px;
 }
+
 /* Default styling for all screens ends here */
 
 /* Add media query for tablet */
