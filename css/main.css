@@ -14,7 +14,7 @@ html {
 
 body {
   margin: 0;
-  /* include your font family and default line-height */
+  font-family: 'Lato', sans serif;
 }
 
 img {
@@ -22,7 +22,6 @@ img {
 }
 
 .wrapper {
-  font-family: 'Lato', sans serif;
   max-width: 1400px;
   margin: 0 auto;
 }
@@ -119,3 +118,8 @@ ul li {
     #secondary { width:100%; margin:0; border:none; }
 }
 /* Add media query for desktop */
+@media (min-width: 1312px) {
+  padding: 96px 0;
+  padding-top: 96px;
+  padding-bottom: 96px;
+}
